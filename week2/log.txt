@@ -1,0 +1,4 @@
+created task: 00 Task's state has changed to "open"
+0 Task's state has changed to "assigned" with developer: qwerty123
+0 Task's state has changed to "resolved"
+0 Task's state has changed to "testing" with developer: qwerty123
